@@ -1,0 +1,2 @@
+# hacker
+n sayısı problemi
